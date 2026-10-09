@@ -7,7 +7,7 @@ The Prompt Engineering Dashboard is a web application built using Python and Str
 Users can enter a task, select a prompting technique, and generate an AI response.
 
 ## Live Demo
-http://localhost:8501/
+https://promptengineering-ekyopnrephwwqsjfkndgde.streamlit.app/
 
 
 ##  Objectives
